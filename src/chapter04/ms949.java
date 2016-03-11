@@ -1,0 +1,14 @@
+package chapter04;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class ms949 {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
